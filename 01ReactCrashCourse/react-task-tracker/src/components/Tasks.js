@@ -4,7 +4,7 @@ const Tasks = ({ tasks }) => {
     return (
         <>
             {tasks.map((task) => (
-                <Task key={task.id} task={taskd}/>
+                <Task key={task.id} task={task}/>
             ))}
         </>
     )
