@@ -347,9 +347,9 @@ li:nth-child(7) {
   left: 60%;
 }
 
-h3,p,label {
+/* h3,p,label {
   color: whitesmoke;
-}
+} */
 
 @keyframes particleAnimation
 {
